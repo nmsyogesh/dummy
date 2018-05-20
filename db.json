@@ -1,15 +1,13 @@
-# dummy
-
 {
   "states": [
     {
-      "id": 'AZ',
+      "id": "AZ",
       "name": "Arizona",
       "capital": "Phoenix",
       "population": 7020000
     },
     {
-      "id": 'AL',
+      "id": "AL",
       "name": "Alabama",
       "capital": "Montgomery",
       "population": 4870000
